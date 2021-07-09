@@ -1,0 +1,961 @@
+{
+  "Timestamp": "2021-07-06T22:50:20.5256355+05:30",
+  "Level": "Information",
+  "MessageTemplate": "application start running",
+  "Properties": {
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 1
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3599706+05:30",
+  "Level": "Information",
+  "MessageTemplate": "you requested the index page",
+  "Properties": {
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3634745+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 0,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3670095+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 1,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3674670+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 2,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3679015+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 3,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3682987+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 4,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3686877+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 5,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3690797+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 6,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3695129+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 7,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3706137+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 8,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3713746+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 9,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3719748+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 10,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3724494+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 11,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3728692+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 12,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3732434+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 13,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3736279+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 14,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3740930+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 15,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3744883+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 16,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3748786+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 17,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3753031+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 18,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3756922+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 19,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3761193+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 20,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3765141+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 21,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3768828+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 22,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3772589+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 23,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3776349+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 24,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3780220+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 25,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3783932+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 26,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3787845+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 27,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3791826+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 28,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3798681+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 29,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3803991+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 30,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3809438+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 31,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3814822+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 32,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3820247+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 33,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3825464+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 34,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3830919+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 35,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3836094+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 36,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3841930+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 37,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3847011+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 38,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3852368+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 39,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3900412+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 40,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3906753+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 41,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3912457+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 42,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3918061+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 43,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3923433+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 44,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3928789+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 45,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3933982+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 46,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3939409+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 47,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3944882+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 48,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3950403+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 49,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3955924+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 50,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3963267+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 51,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3969848+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 52,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3975594+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 53,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3981100+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 54,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.3986489+05:30",
+  "Level": "Information",
+  "MessageTemplate": "the value of the i is {loopCountValue}",
+  "Properties": {
+    "loopCountValue": 55,
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.4299254+05:30",
+  "Level": "Error",
+  "MessageTemplate": "we cought this exception in the index is call",
+  "Exception": "System.Exception: this is our demo exception\r\n   at SeriLogLearn.Pages.IndexModel.OnGet() in C:\\Users\\janit\\Source\\Repos\\SeriLogLearn\\Pages\\Index.cshtml.cs:line 30",
+  "Properties": {
+    "SourceContext": "SeriLogLearn.Pages.IndexModel",
+    "ActionId": "1214d736-d753-489e-94d6-45837a6efc70",
+    "ActionName": "/Index",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "RequestPath": "/",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  }
+} {
+  "Timestamp": "2021-07-06T22:50:22.5627239+05:30",
+  "Level": "Information",
+  "MessageTemplate": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+  "Properties": {
+    "RequestMethod": "GET",
+    "RequestPath": "/",
+    "StatusCode": 200,
+    "Elapsed": 296.7301,
+    "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+    "RequestId": "0HMA0K9ATE7BH:00000001",
+    "ConnectionId": "0HMA0K9ATE7BH",
+    "MachineName": "DESKTOP-H8B00RC",
+    "ProcessId": 19304,
+    "ThreadId": 9
+  },
+  "Renderings": {
+    "Elapsed": [
+      {
+        "Format": "0.0000",
+        "Rendering": "296.7301"
+      }
+    ]
+  }
+}

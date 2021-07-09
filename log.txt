@@ -1,0 +1,125 @@
+ application start running 
+  you requested the index page 
+  the value of the i is 0 
+  the value of the i is 1 
+  the value of the i is 2 
+  the value of the i is 3 
+  the value of the i is 4 
+  the value of the i is 5 
+  the value of the i is 6 
+  the value of the i is 7 
+  the value of the i is 8 
+  the value of the i is 9 
+  the value of the i is 10 
+  the value of the i is 11 
+  the value of the i is 12 
+  the value of the i is 13 
+  the value of the i is 14 
+  the value of the i is 15 
+  the value of the i is 16 
+  the value of the i is 17 
+  the value of the i is 18 
+  the value of the i is 19 
+  the value of the i is 20 
+  the value of the i is 21 
+  the value of the i is 22 
+  the value of the i is 23 
+  the value of the i is 24 
+  the value of the i is 25 
+  the value of the i is 26 
+  the value of the i is 27 
+  the value of the i is 28 
+  the value of the i is 29 
+  the value of the i is 30 
+  the value of the i is 31 
+  the value of the i is 32 
+  the value of the i is 33 
+  the value of the i is 34 
+  the value of the i is 35 
+  the value of the i is 36 
+  the value of the i is 37 
+  the value of the i is 38 
+  the value of the i is 39 
+  the value of the i is 40 
+  the value of the i is 41 
+  the value of the i is 42 
+  the value of the i is 43 
+  the value of the i is 44 
+  the value of the i is 45 
+  the value of the i is 46 
+  the value of the i is 47 
+  the value of the i is 48 
+  the value of the i is 49 
+  the value of the i is 50 
+  the value of the i is 51 
+  the value of the i is 52 
+  the value of the i is 53 
+  the value of the i is 54 
+  the value of the i is 55 
+  we cought this exception in the index is call 
+ System.Exception: this is our demo exception
+   at SeriLogLearn.Pages.IndexModel.OnGet() in C:\Users\janit\Source\Repos\SeriLogLearn\Pages\Index.cshtml.cs:line 30
+ HTTP "GET" "/" responded 200 in 286.2433 ms 
+  application start running 
+  you requested the index page 
+  the value of the i is 0 
+  the value of the i is 1 
+  the value of the i is 2 
+  the value of the i is 3 
+  the value of the i is 4 
+  the value of the i is 5 
+  the value of the i is 6 
+  the value of the i is 7 
+  the value of the i is 8 
+  the value of the i is 9 
+  the value of the i is 10 
+  the value of the i is 11 
+  the value of the i is 12 
+  the value of the i is 13 
+  the value of the i is 14 
+  the value of the i is 15 
+  the value of the i is 16 
+  the value of the i is 17 
+  the value of the i is 18 
+  the value of the i is 19 
+  the value of the i is 20 
+  the value of the i is 21 
+  the value of the i is 22 
+  the value of the i is 23 
+  the value of the i is 24 
+  the value of the i is 25 
+  the value of the i is 26 
+  the value of the i is 27 
+  the value of the i is 28 
+  the value of the i is 29 
+  the value of the i is 30 
+  the value of the i is 31 
+  the value of the i is 32 
+  the value of the i is 33 
+  the value of the i is 34 
+  the value of the i is 35 
+  the value of the i is 36 
+  the value of the i is 37 
+  the value of the i is 38 
+  the value of the i is 39 
+  the value of the i is 40 
+  the value of the i is 41 
+  the value of the i is 42 
+  the value of the i is 43 
+  the value of the i is 44 
+  the value of the i is 45 
+  the value of the i is 46 
+  the value of the i is 47 
+  the value of the i is 48 
+  the value of the i is 49 
+  the value of the i is 50 
+  the value of the i is 51 
+  the value of the i is 52 
+  the value of the i is 53 
+  the value of the i is 54 
+  the value of the i is 55 
+  we cought this exception in the index is call 
+ System.Exception: this is our demo exception
+   at SeriLogLearn.Pages.IndexModel.OnGet() in C:\Users\janit\Source\Repos\SeriLogLearn\Pages\Index.cshtml.cs:line 30
+ HTTP "GET" "/" responded 200 in 296.7301 ms 
+ 
